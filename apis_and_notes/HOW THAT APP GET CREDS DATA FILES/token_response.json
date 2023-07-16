@@ -1,0 +1,42 @@
+{
+    "status": "ok",
+    "content": {
+      "userId": "64b2ddd48ee57e0622d18b95",
+      "iam": "Teacher",
+      "age": 20,
+      "pushToken": "eYLOxzPbQVmyA1zofi_cOD:APA91bGlr1CI-zNem-dK8T2sIaF3QOvQd_34NvafOxpQWDHJIVlhJLKCBUokWwoN2DmvCtBLAyFy6DVDg7YgUd1P1Wp4UwMGn87cvNhvaJJQLPYcleUgNp7MqzcPRlstz9D7z1JUcwiW",
+      "country": "JO",
+      "timeZoneId": "Africa/Nairobi",
+      "problemDbEnabled": false,
+      "type": "anonymous",
+      "provider": "photomath",
+      "token": "eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiI2NGIyZGRkNDhlZTU3ZTA2MjJkMThiOTUiLCJhdWQiOiJwaG90b21hdGgiLCJuYmYiOjE2ODk0NTU5MDksInNjb3BlIjpbImZyZWU6c29sdXRpb24iLCJwYWlkOnJlc3VsdCIsInRyaWFsOnJlc3VsdCIsIndpcDpiYXNpYyJdLCJpc3MiOiJodHRwczovL2xhcGkucGhvdG9tYXRoLm5ldC92NCIsInJvbGVzS2V5Ijoic2NvcGUiLCJleHAiOjE2OTAwNjA3MDksImlhdCI6MTY4OTQ1NTkwOX0.tbILBv9Fr5bqjfmmqqbjatpFzDFNN-thpkDmPq1kPU8",
+      "refreshToken": "eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiI2NGIyZGRkNDhlZTU3ZTA2MjJkMThiOTUiLCJhdWQiOiJwaG90b21hdGgiLCJuYmYiOjE2ODk0NTU5MDksInNjb3BlIjpbInJlZnJlc2giXSwiaXNzIjoiaHR0cHM6Ly9sYXBpLnBob3RvbWF0aC5uZXQvdjQiLCJyb2xlc0tleSI6InNjb3BlIiwiZXhwIjoxNzA1MDA3OTA5LCJpYXQiOjE2ODk0NTU5MDl9.SQDzUUCFG6ISUYtT0iTXG_9KFBoxp1Wg6HBMS7ypz5o",
+      "scope": [
+        "free:solution",
+        "paid:result",
+        "trial:result",
+        "wip:basic"
+      ],
+      "created": "2023-07-15T17:56:36.883Z",
+      "updated": "2023-07-15T18:09:07.265Z",
+      "providerIds": [
+        "bb4a6a40d778448f"
+      ],
+      "status": "pending",
+      "tier": {
+        "level": "basic"
+      },
+      "region": "AM",
+      "binomialType": "NotationOne",
+      "freeSundayVariant": "Disabled",
+      "freeSunday": false
+    },
+    "geo": {
+      "age": 13,
+      "eu": false,
+      "americas": false,
+      "region": "AM",
+      "country": "JO"
+    }
+  }
