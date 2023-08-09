@@ -1,0 +1,746 @@
+{
+  "result": {
+    "groups": [
+      {
+        "type": "vertical",
+        "entries": [
+          {
+            "nodeAction": {
+              "node": {
+                "type": "root2",
+                "children": [
+                  {
+                    "type": "sub",
+                    "children": [
+                      {
+                        "type": "add",
+                        "children": [
+                          {
+                            "type": "const",
+                            "value": "1"
+                          },
+                          {
+                            "type": "const",
+                            "value": "1"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "const",
+                        "value": "4"
+                      }
+                    ]
+                  }
+                ]
+              },
+              "action": {
+                "command": "simplify_wrapper",
+                "args": []
+              }
+            },
+            "preview": {
+              "type": "vertical",
+              "title": {
+                "type": "simplify",
+                "args": [],
+                "localizedText": {
+                  "locale": "en",
+                  "text": "Simplify the expression"
+                }
+              },
+              "method": {
+                "type": "simplify_in_r",
+                "args": [],
+                "localizedText": {
+                  "locale": "en",
+                  "text": "Simplify in the set of real numbers"
+                }
+              },
+              "content": {
+                "description": {
+                  "type": "simplify_in_r",
+                  "args": [],
+                  "localizedText": {
+                    "locale": "en",
+                    "text": "Simplify in the set of real numbers"
+                  }
+                },
+                "problem": {
+                  "type": "root2",
+                  "children": [
+                    {
+                      "type": "sub",
+                      "children": [
+                        {
+                          "type": "add",
+                          "children": [
+                            {
+                              "type": "const",
+                              "value": "1"
+                            },
+                            {
+                              "type": "const",
+                              "value": "1"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "const",
+                          "value": "4"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                "solution": {
+                  "type": "localized_text",
+                  "children": [
+                    {
+                      "type": "text_key",
+                      "value": "undefined"
+                    },
+                    {
+                      "type": "string",
+                      "value": "en"
+                    },
+                    {
+                      "type": "string",
+                      "value": "Undefined"
+                    }
+                  ]
+                }
+              }
+            },
+            "stepCount": 2
+          },
+          {
+            "nodeAction": {
+              "node": {
+                "type": "root2",
+                "children": [
+                  {
+                    "type": "sub",
+                    "children": [
+                      {
+                        "type": "add",
+                        "children": [
+                          {
+                            "type": "const",
+                            "value": "1"
+                          },
+                          {
+                            "type": "const",
+                            "value": "1"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "const",
+                        "value": "4"
+                      }
+                    ]
+                  }
+                ]
+              },
+              "action": {
+                "command": "simplify_complex",
+                "args": []
+              }
+            },
+            "preview": {
+              "type": "vertical",
+              "title": {
+                "type": "simplify",
+                "args": [],
+                "localizedText": {
+                  "locale": "en",
+                  "text": "Simplify the expression"
+                }
+              },
+              "method": {
+                "type": "simplify_in_c",
+                "args": [],
+                "localizedText": {
+                  "locale": "en",
+                  "text": "Simplify in the set of complex numbers"
+                }
+              },
+              "content": {
+                "description": {
+                  "type": "simplify_in_c",
+                  "args": [],
+                  "localizedText": {
+                    "locale": "en",
+                    "text": "Simplify in the set of complex numbers"
+                  }
+                },
+                "problem": {
+                  "type": "root2",
+                  "children": [
+                    {
+                      "type": "sub",
+                      "children": [
+                        {
+                          "type": "add",
+                          "children": [
+                            {
+                              "type": "const",
+                              "value": "1"
+                            },
+                            {
+                              "type": "const",
+                              "value": "1"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "const",
+                          "value": "4"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                "solution": {
+                  "type": "alt_form",
+                  "children": [
+                    {
+                      "type": "muli",
+                      "children": [
+                        {
+                          "type": "root2",
+                          "children": [
+                            {
+                              "type": "const",
+                              "value": "2"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "var",
+                          "value": "i"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "muli",
+                      "children": [
+                        {
+                          "type": "approx_sign",
+                          "children": [
+                            {
+                              "type": "const",
+                              "value": "1.41421"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "var",
+                          "value": "i"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            },
+            "stepCount": 2
+          }
+        ]
+      },
+      {
+        "type": "vertical",
+        "entries": [
+          {
+            "nodeAction": {
+              "node": {
+                "type": "root2",
+                "children": [
+                  {
+                    "type": "sub",
+                    "children": [
+                      {
+                        "type": "add",
+                        "children": [
+                          {
+                            "type": "const",
+                            "value": "1"
+                          },
+                          {
+                            "type": "const",
+                            "value": "1"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "const",
+                        "value": "4"
+                      }
+                    ]
+                  }
+                ]
+              },
+              "action": {
+                "command": "complex_conjugate",
+                "args": []
+              }
+            },
+            "preview": {
+              "type": "vertical",
+              "title": {
+                "type": "complex_number",
+                "args": [],
+                "localizedText": {
+                  "locale": "en",
+                  "text": "Complex number"
+                }
+              },
+              "method": {
+                "type": "complex_conjugate",
+                "args": [],
+                "localizedText": {
+                  "locale": "en",
+                  "text": "Find the [complex conjugate|9c43834e-c059-4d4e-8b97-50bd20801424]"
+                }
+              },
+              "content": {
+                "description": {
+                  "type": "complex_conjugate",
+                  "args": [],
+                  "localizedText": {
+                    "locale": "en",
+                    "text": "Find the [complex conjugate|9c43834e-c059-4d4e-8b97-50bd20801424]"
+                  }
+                },
+                "problem": {
+                  "type": "root2",
+                  "children": [
+                    {
+                      "type": "sub",
+                      "children": [
+                        {
+                          "type": "add",
+                          "children": [
+                            {
+                              "type": "const",
+                              "value": "1"
+                            },
+                            {
+                              "type": "const",
+                              "value": "1"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "const",
+                          "value": "4"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                "solution": {
+                  "type": "alt_form",
+                  "children": [
+                    {
+                      "type": "muli",
+                      "children": [
+                        {
+                          "type": "negative",
+                          "children": [
+                            {
+                              "type": "root2",
+                              "children": [
+                                {
+                                  "type": "const",
+                                  "value": "2"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "var",
+                          "value": "i"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "muli",
+                      "children": [
+                        {
+                          "type": "approx_sign",
+                          "children": [
+                            {
+                              "type": "negative",
+                              "children": [
+                                {
+                                  "type": "const",
+                                  "value": "1.41421"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "var",
+                          "value": "i"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            },
+            "stepCount": 3
+          }
+        ]
+      }
+    ]
+  },
+  "info": {
+    "solver": {
+      "version": "12.5.10",
+      "ioVersion": "9.0.0",
+      "normalizedInput": {
+        "node": {
+          "type": "root2",
+          "children": [
+            {
+              "type": "sub",
+              "children": [
+                {
+                  "type": "add",
+                  "children": [
+                    {
+                      "type": "const",
+                      "value": "1"
+                    },
+                    {
+                      "type": "const",
+                      "value": "1"
+                    }
+                  ]
+                },
+                {
+                  "type": "const",
+                  "value": "4"
+                }
+              ]
+            }
+          ]
+        },
+        "action": {
+          "command": "auto",
+          "args": []
+        }
+      }
+    },
+    "animations": {},
+    "documents": {},
+    "translator": {
+      "locale": "en"
+    },
+    "imageToMath": {
+      "version": "2.11.1+Perseus_fp16+Spark_fp16",
+      "command": {
+        "node": {
+          "type": "root2",
+          "children": [
+            {
+              "type": "sub",
+              "children": [
+                {
+                  "type": "add",
+                  "children": [
+                    {
+                      "type": "const",
+                      "value": "1"
+                    },
+                    {
+                      "type": "const",
+                      "value": "1"
+                    }
+                  ]
+                },
+                {
+                  "type": "const",
+                  "value": "4"
+                }
+              ]
+            }
+          ]
+        },
+        "action": {
+          "command": "auto",
+          "args": []
+        }
+      },
+      "commandNodeHash": "9cc05db58e3a715c413cc0739c013cad",
+      "contentType": "math-problem",
+      "fineGrainedContentType": "math-problem",
+      "actions": [
+        {
+          "name": "no_context",
+          "probability": 0.90380859375
+        },
+        {
+          "name": "simplify_wrapper",
+          "probability": 0.08929443359375
+        },
+        {
+          "name": "calculate",
+          "probability": 0.00015723705291748047
+        },
+        {
+          "name": "matrix_simplify",
+          "probability": 0.00015592575073242188
+        },
+        {
+          "name": "factorise_call",
+          "probability": 0.00015473365783691406
+        },
+        {
+          "name": "graph_expression",
+          "probability": 0.00008612871170043945
+        },
+        {
+          "name": "rationalize",
+          "probability": 0.00003761053085327149
+        },
+        {
+          "name": "eq_solve",
+          "probability": 0.00003319978713989258
+        },
+        {
+          "name": "mul_brackets_with_formula",
+          "probability": 0.00003272294998168945
+        },
+        {
+          "name": "mul_distributive_prop",
+          "probability": 0.00002753734588623047
+        },
+        {
+          "name": "exp_form",
+          "probability": 0.000026702880859375
+        },
+        {
+          "name": "log_sum",
+          "probability": 0.000021755695343017575
+        },
+        {
+          "name": "complex_calc_mod",
+          "probability": 0.000019550323486328125
+        },
+        {
+          "name": "calculate_distributive",
+          "probability": 0.00001633167266845703
+        },
+        {
+          "name": "limit_solve_no_lhopital",
+          "probability": 0.000012040138244628906
+        },
+        {
+          "name": "compare",
+          "probability": 0.000011861324310302734
+        },
+        {
+          "name": "limit_solve_insert_value",
+          "probability": 0.000009894371032714844
+        },
+        {
+          "name": "graph",
+          "probability": 0.000009834766387939451
+        },
+        {
+          "name": "mul_brackets_foil",
+          "probability": 0.000009298324584960938
+        },
+        {
+          "name": "simplify_complex",
+          "probability": 0.000009298324584960938
+        },
+        {
+          "name": "integrate_def",
+          "probability": 0.000008404254913330078
+        },
+        {
+          "name": "animation_subtract_mixed_numbers_using_bars",
+          "probability": 0.00000768899917602539
+        },
+        {
+          "name": "ineq_solve",
+          "probability": 0.000006616115570068359
+        },
+        {
+          "name": "mfrac_sum_to_frac",
+          "probability": 0.000004589557647705078
+        },
+        {
+          "name": "expand_binomial_multi",
+          "probability": 0.000004410743713378906
+        },
+        {
+          "name": "animation_integer_chips",
+          "probability": 0.000004172325134277344
+        },
+        {
+          "name": "animation_neg_exp_prop_proof",
+          "probability": 0.000004112720489501953
+        },
+        {
+          "name": "animation_matrix_subtraction",
+          "probability": 0.0000032782554626464844
+        },
+        {
+          "name": "animation_factor_expression",
+          "probability": 0.0000030994415283203125
+        },
+        {
+          "name": "animation_subtract_frac_primes",
+          "probability": 0.000003039836883544922
+        },
+        {
+          "name": "poly_roots_factorization",
+          "probability": 0.00000286102294921875
+        },
+        {
+          "name": "animation_add_number_line",
+          "probability": 0.000002682209014892578
+        },
+        {
+          "name": "animation_dec_to_frac",
+          "probability": 0.000002682209014892578
+        },
+        {
+          "name": "complex_pow",
+          "probability": 0.000002682209014892578
+        },
+        {
+          "name": "mfrac_sum_no_frac",
+          "probability": 0.0000026226043701171875
+        },
+        {
+          "name": "trig_compress",
+          "probability": 0.0000021457672119140625
+        },
+        {
+          "name": "animation_add_frac_multiples",
+          "probability": 0.00000196695327758789
+        },
+        {
+          "name": "limit_solve_lhopital",
+          "probability": 0.00000196695327758789
+        },
+        {
+          "name": "animation_add_c_num",
+          "probability": 0.0000019073486328125
+        },
+        {
+          "name": "animation_alg_tiles_add_sub",
+          "probability": 0.0000019073486328125
+        },
+        {
+          "name": "complex_trig_form_alt",
+          "probability": 0.0000017881393432617188
+        },
+        {
+          "name": "complex_mul_polar_form",
+          "probability": 0.0000016689300537109375
+        },
+        {
+          "name": "function_derive",
+          "probability": 0.0000015497207641601562
+        },
+        {
+          "name": "animation_div_us_dec",
+          "probability": 0.0000014901161193847656
+        },
+        {
+          "name": "integrate",
+          "probability": 0.0000014901161193847656
+        },
+        {
+          "name": "animation_add_frac_primes",
+          "probability": 0.0000013113021850585938
+        },
+        {
+          "name": "slope_points",
+          "probability": 0.0000013113021850585938
+        },
+        {
+          "name": "animation_factor_dts",
+          "probability": 0.0000010132789611816406
+        },
+        {
+          "name": "simplify_real_in_complex",
+          "probability": 0.0000010132789611816406
+        },
+        {
+          "name": "calc_distance_2d",
+          "probability": 8.940696716308594e-7
+        }
+      ]
+    },
+    "problemSearch": {
+      "version": "6.0.0+arceus",
+      "index": "562620"
+    },
+    "nar": {
+      "version": "2.28.2",
+      "routes": []
+    },
+    "routing": {
+      "engineVersion": "5.0.4",
+      "modelVersion": "1.0.0.",
+      "result": {
+        "routes": []
+      }
+    },
+    "writingTypeClassifier": {
+      "version": "1.0.0+gemini",
+      "type": "handwritten",
+      "score": 0.999955415725708
+    },
+    "pws": {
+      "imageId": "11ee1d1c-f1c7-47f8-95e7-d8e107931575"
+    }
+  },
+  "diagnostics": {
+    "imageToMathEvaluationTime": 0,
+    "imageToMathRequestTime": 89,
+    "bookpointRecognizerEvaluationTime": 0,
+    "bookpointRecognizerRequestTime": 0,
+    "bookpointLookupEvaluationTime": 0,
+    "bookpointLookupRequestTime": 0,
+    "bookpointEvaluationTime": 0,
+    "problemSearchEmbeddingTime": 10,
+    "problemSearchSearchTime": 7,
+    "problemSearchLookupEvaluationTime": 0,
+    "problemSearchLookupRequestTime": 0,
+    "problemSearchImagePreparationTime": 0,
+    "problemSearchModelTime": 0,
+    "problemSearchDatabaseTime": 0,
+    "problemSearchEvaluationTime": 18,
+    "contentMetadataEvaluationTime": 0,
+    "contentMetadataRequestTime": 0,
+    "contentSolveTime": 0,
+    "solverRequestTime": 2,
+    "solverEvaluationTime": 1,
+    "translatorRequestTime": 0,
+    "translatorEvaluationTime": 0,
+    "translatorTotalTime": 0,
+    "animationTotalTime": 0,
+    "resultGroupsOrderingRequestTime": 0,
+    "narRequestTime": 0,
+    "routingRequestTime": 0,
+    "routingEvaluationTime": 3,
+    "documentTotalTime": 0,
+    "narEvaluationTime": 0,
+    "resultGroupsOrderingEvaluationTime": 0,
+    "dswTotalTime": 0,
+    "writingTypeClassifierEvaluationTime": 19,
+    "evaluationTime": 93,
+    "pwsRequestTime": 96
+  }
+}
